@@ -1,0 +1,112 @@
+{
+  "Affinity": {
+    "description": "Costs less to cast for each specified permanent you control.",
+    "example": "[[Into Thin Air]] {5}{B} - Instant - Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.) - Return target artifact to its owner's hand.",
+    "rule_number": "702.41~"
+  },
+  "Aura": {
+    "description": "Enchantments that attach to a creature or other permanent, providing various effects.",
+    "example": "[[Pacifism]], which is an enchantment that can be cast on an opponent's creature to prevent it from attacking or blocking. Another example of an offensive aura would be [[Grievous Wound]]",
+    "rule_number": "303.4~"
+  },
+  "Banding": {
+    "description": "Allows creatures to attack or block together, sharing damage among them.",
+    "example": "When two creatures with banding, a {3/3} and a {2/2}, attack together as a band. The attacking player can then assign all damage from a single {3/3} blocker to the {2/2} creature, killing it while the {3/3} remains unaffected",
+    "rule_number": "702.22~ Retired Mechanic"
+  },
+  "Buyback": {
+    "description": "Lets you play an additional cost to return the spell to your hand after it resolves.",
+    "example": "Casting [[Capsize]] with its buyback cost of {4}{U} to bounce a permanent, and then paying the additional {4}{U} buyback cost to return it to your hand, allowing you to cast it again later for just {4}{U}.",
+    "rule_number": "702.27~"
+  },
+  "Combat Damage": {
+    "description": "Damage dealt by creatures during combat.",
+    "example": "A {5/5} creature attacks and is blocked by a {2/2} and a {2/3}, the attacking player must assign the 5 damage. The attacking player can deal 5 damage to the {2/2}, killing it, and assign 0 damage to the {2/3}, or deal 5 damage to the {2/3}, killing it and assigning 0 damage to the {2/2}, or split it between both blockers, provided that each creature receives enough damage to be destroyed.",
+    "rule_number": "510.1~"
+  },
+  "Cumulative Upkeep": {
+    "description": "Requires increasing payments each turn to keep the permanent on the battlefield.",
+    "example": "A mechanic where you add an 'age counter' to a permanent at the beginning of your upkeep and must then pay a cost for each age counter on it. If you can't or choose not to pay the full cost, the permanent is sacrificed. Cards such as [[Cover of Winter]] have a Cumulative Upkeep effect.",
+    "rule_number": "702.24~ Retired Mechanic"
+  },
+  "Deathtouch": {
+    "description": "Any amount of damage this deals to a creature is enough to destroy it.",
+    "example": "A [[Typhoid Rats]] can destroy a huge creature like [[Ghalta, Primal Hunger]] in combat.",
+    "rule_number": "702.2~"
+  },
+  "Defender": {
+    "description": "Prevents a creature from attacking.",
+    "example": "[[Wall of Omens]] or [[Wall of Runes]], low-cost creatures with defender {0/4} that can block but not attack, and also draws a card when it enters the battlefield, providing both defense and card advantage for a low mana cost.",
+    "rule_number": "702.3~"
+  },
+  "Double Strike": {
+    "description": "Alows a creature to deal damage twice in combat (first strike and regular damage).",
+    "example": "a {2/2} double strike creature attacking a {2/2} creature results in the {2/2} double striker dealing 2 damage in the first strike step, killing the defender, and then taking no further damage because the defender is already dead. If the {2/2} double striker is blocked by a {3/3}, it deals 2 damage in the first step, and the {3/3} deals 3 damage, killing the double striker before it can deal its second instance of damage. Cards such as [[Argus Kos, Spirit of Justice]] have the Double Strike effect.",
+    "rule_number": "702.4~"
+  },
+  "Enchant": {
+    "description": "Indicates a card that attaches to another permanent, providing effects (similar to aura).",
+    "example": "[[Animate Dead]], a black enchantment that brings a creature from a graveyard to the battlefield under your control. If [[Animate Dead]] leaves the battlefield, the creature is sacrificed.",
+    "rule_number": "303~"
+  },
+  "Equip": {
+    "description": "Attaches an equipment card to a creature for a cost.",
+    "example": "[[Sword of Fire and Ice]], then paying its 'Equip 2' cost to attach it to a creature you control. The creature gains a {+2/+2} bonus and the ability to trigger the sword's effects, like dealing damage and drawing a card, when it deals combat damage to an opponent",
+    "rule_number": "702.6~"
+  },
+  "Flying": {
+    "description": "This creature can't be blocked except by creatures with flying or reach.",
+    "example": "[[Serra Angel]] and [[Dragon Whelp]] are examples of creatures with flying.",
+    "rule_number": "702.9~"
+  },
+  "Haste": {
+    "description": "Lets a creature ignore summoning sickness and attack or use tap abilities immediately.",
+    "example": "[[Chandra's Phoenix]], a creature that can attack the turn it is played, ignoring 'summoning sickness'.",
+    "rule_number": "702.10~"
+  },
+  "Hexproof": {
+    "description": "This permanent can't be the target of spells or abilities your opponents control.",
+    "example": "[[Slippery Bogle]] has hexproof, making it hard to remove.",
+    "rule_number": "702.11~"
+  },
+  "Indestructable": {
+    "description": "Makes a permanent unable to be destroyed by damage or effects that say DESTROY.",
+    "example": "A creature like the [[Darksteel Gargoyle]] or [[Sliver Hive Lord]], which cannot be destroyed by damage or effects that say 'destroy'",
+    "rule_number": "702.12~"
+  },
+  "Landwalk": {
+    "description": "Makes a creature unblockable if the defending player controls a specific land type.",
+    "example": "A creature with islandwalk, which cannot be blocked as long as the defending player controls an Island. See [[Lord of Atlantis]] -- [[Elaamri, Lord of Leaves]] -- [[Goblin King]] as examples.",
+    "rule_number": "702.14~ Retired Mechanic"
+  },
+  "Lifelink": {
+    "description": "Damage dealt by this creature also causes you to gain that much life.",
+    "example": "[[Vampire Nighthawk]] and [[Baneslayer Angel]] both have lifelink.",
+    "rule_number": "702.15~"
+  },
+  "Protection": {
+    "description": ".",
+    "example": "[[Mirran Crusader]], which cannot be damaged, targeted, enchanted, or blocked by red sources.",
+    "rule_number": "702.16~"
+  },
+  "Reach": {
+    "description": "Prevents a creature from being targeted by any spells or abilities, including your own.",
+    "example": "[[Giant Spider]] is a classic MTG reach example, a creature that can block flying creatures even though it doesn't have flying itself.",
+    "rule_number": "702.17~"
+  },
+  "Trample": {
+    "description": "Excess combat damage dealt to a blocking creature is dealt to that creature's controller.",
+    "example": "A 7/7 with trample blocked by a 2/2 deals 5 damage to the defending player. Cards such as [[Abaddon the Despoiler]] have the Trample effect.",
+    "rule_number": "702.19~"
+  },
+  "Untap Step": {
+    "description": "Phase in a turn where you untap your tapped permanents.",
+    "example": "If you tapped two lands to cast a spell, they will become untapped and ready to use again at the start of your next turn",
+    "rule_number": "502~"
+  },
+  "Vigilance": {
+    "description": "Attacking doesn't cause this creature to tap.",
+    "example": "[[Serra Angel]] has vigilance, so it can attack and still block next turn.",
+    "rule_number": "702.20~"
+  }
+}
