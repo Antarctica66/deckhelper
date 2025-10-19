@@ -11,7 +11,7 @@
   },
   "Banding": {
     "description": "Allows creatures to attack or block together, sharing damage among them.",
-    "example": "When two creatures with banding, a {3/3} and a {2/2}, attack together as a band. The attacking player can then assign all damage from a single {3/3} blocker to the {2/2} creature, killing it while the {3/3} remains unaffected",
+    "example": "When two creatures with banding, a {3/3} and a {2/2}, attack together as a band. The attacking player can then assign all damage from a single {3/3} blocker to the {2/2} creature, killing it while the {3/3} remains unaffected. Cards such as [[Icatian Phalanx]] had the Banding effect.",
     "rule_number": "702.22~ Retired Mechanic"
   },
   "Buyback": {
@@ -101,7 +101,7 @@
   },
   "Untap Step": {
     "description": "Phase in a turn where you untap your tapped permanents.",
-    "example": "If you tapped two lands to cast a spell, they will become untapped and ready to use again at the start of your next turn",
+    "example": "If you tapped two lands to cast a spell, they will become untapped and ready to use again at the start of your next turn. One of the most common mechanics, see [[Endbringer]] for context.",
     "rule_number": "502~"
   },
   "Vigilance": {
@@ -110,3 +110,4 @@
     "rule_number": "702.20~"
   }
 }
+
