@@ -2,7 +2,7 @@
   "Affinity": {
     "description": "Costs less to cast for each specified permanent you control.",
     "example": "[[Into Thin Air]] {5}{B} - Instant - Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.) - Return target artifact to its owner's hand.",
-    "rule_number": "702.41~"
+    "rule_number": "702.41~ Ryan"
   },
   "Aura": {
     "description": "Enchantments that attach to a creature or other permanent, providing various effects.",
@@ -110,4 +110,5 @@
     "rule_number": "702.20~"
   }
 }
+
 
