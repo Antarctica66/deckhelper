@@ -2,7 +2,7 @@
   "Affinity": {
     "description": "Costs less to cast for each specified permanent you control.",
     "example": "[[Into Thin Air]] {5}{B} - Instant - Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.) - Return target artifact to its owner's hand.",
-    "rule_number": "702.41~ Ryan"
+    "rule_number": "702.41~"
   },
   "Aura": {
     "description": "Enchantments that attach to a creature or other permanent, providing various effects.",
@@ -11,7 +11,7 @@
   },
   "Banding": {
     "description": "Allows creatures to attack or block together, sharing damage among them.",
-    "example": "When two creatures with banding, a {3/3} and a {2/2}, attack together as a band. The attacking player can then assign all damage from a single {3/3} blocker to the {2/2} creature, killing it while the {3/3} remains unaffected. Cards such as [[Icatian Phalanx]] had the Banding effect.",
+    "example": "When two creatures with banding, a {3/3} and a {2/2}, attack together as a band. The attacking player can then assign all damage from a single {3/3} blocker to the {2/2} creature, killing it while the {3/3} remains unaffected",
     "rule_number": "702.22~ Retired Mechanic"
   },
   "Buyback": {
@@ -69,6 +69,11 @@
     "example": "[[Slippery Bogle]] has hexproof, making it hard to remove.",
     "rule_number": "702.11~"
   },
+  "Horsemanship": {
+    "description": "Horsemanship is functionally similar to flying. However, horsemanship is considered parasitic (meaning that it only interacts with other things in the set rather than the rest of Magic).",
+    "example": "[[Herald of Hoofbeats]] is a great example of a Horsemanship card, it synergizes with other Knight types mostly.",
+    "rule_number": "702.31."
+  },
   "Indestructable": {
     "description": "Makes a permanent unable to be destroyed by damage or effects that say DESTROY.",
     "example": "A creature like the [[Darksteel Gargoyle]] or [[Sliver Hive Lord]], which cannot be destroyed by damage or effects that say 'destroy'",
@@ -101,7 +106,7 @@
   },
   "Untap Step": {
     "description": "Phase in a turn where you untap your tapped permanents.",
-    "example": "If you tapped two lands to cast a spell, they will become untapped and ready to use again at the start of your next turn. One of the most common mechanics, see [[Endbringer]] for context.",
+    "example": "If you tapped two lands to cast a spell, they will become untapped and ready to use again at the start of your next turn",
     "rule_number": "502~"
   },
   "Vigilance": {
@@ -110,5 +115,3 @@
     "rule_number": "702.20~"
   }
 }
-
-
